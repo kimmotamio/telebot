@@ -5,7 +5,7 @@ import (
 	"testing"
 	"time"
 
-	tele "github.com/kimmotamio/telebot"
+	tele "github.com/kimmotamio/telebot/v3"
 	"github.com/stretchr/testify/assert"
 )
 

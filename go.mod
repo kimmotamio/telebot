@@ -1,4 +1,4 @@
-module github.com/kimmotamio/telebot
+module github.com/kimmotamio/telebot/v3
 
 go 1.16
 
